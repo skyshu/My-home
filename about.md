@@ -52,4 +52,4 @@ Founder, ABC Organisation
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[skyshu@yeah.net](mailto:skyshu@yeah.net)
