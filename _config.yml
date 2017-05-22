@@ -3,7 +3,7 @@
 title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
 email: skyshu@yeah.net
 brand: 张 天
-headline: Student
+headline: University Student
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -18,7 +18,7 @@ snapwidget: 247552
 
 # Contacts
 email: skyshu@yeah.net
-WeChat: petite_sky
+phone: petite_sky
 
 # Tracking
 googleAnalitycsID: UA-83933844-1
