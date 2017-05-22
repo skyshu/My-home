@@ -1,6 +1,6 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
+title: Home Page
 email: skyshu@yeah.net
 brand: 张 天
 headline: University Student
